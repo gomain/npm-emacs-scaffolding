@@ -149,4 +149,7 @@ public/
 # DynamoDB Local files
 .dynamodb/
 
+# babel out-dir
+lib/
+
 # End of https://www.gitignore.io/api/node,emacs
