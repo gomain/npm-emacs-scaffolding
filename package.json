@@ -1,5 +1,5 @@
 {
-  "name": "npm + emacs scaffolding",
+  "name": "npm-emacs-scaffolding",
   "version": "1.0.0",
   "description": "Settup an npm project with babel, eslint & now tobe edited with emacs.",
   "main": "index.js",
@@ -56,7 +56,10 @@
     "rules": {
       "semi": "off",
       "babel/semi": "warn",
-      "quotes": [ "warn", "single" ]
+      "quotes": [
+        "warn",
+        "single"
+      ]
     }
   },
   "babel": {
