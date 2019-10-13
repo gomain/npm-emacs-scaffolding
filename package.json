@@ -70,8 +70,8 @@
           "proposal": "fsharp"
         }
       ],
-      "@babel/plugin-function-bind",
-      "@babel/plugin-partial-application"
+      "@babel/plugin-proposal-function-bind",
+      "@babel/plugin-proposal-partial-application"
     ]
   }
 }
