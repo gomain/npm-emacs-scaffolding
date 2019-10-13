@@ -1,2 +1,2 @@
-# cycle.js-hello
-https://egghead.io/lessons/rxjs-read-text-input-in-a-cycle-js-hello-world-application
+# Npm + Emacs Scaffolding
+Settup an npm project with babel, eslint & now tobe edited with emacs.
