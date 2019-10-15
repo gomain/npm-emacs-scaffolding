@@ -1,7 +1,7 @@
 {
   "name": "npm-emacs-scaffolding",
   "version": "1.0.0",
-  "description": "Settup an npm project with babel, eslint & now tobe edited with emacs.",
+  "description": "Settup an npm template-project with babel, eslint & now tobe edited with emacs.",
   "main": "index.js",
   "scripts": {
     "build-babel": "babel --out-dir lib --copy-files --source-maps true src",
