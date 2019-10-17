@@ -10,7 +10,9 @@ Settup an npm project with babel, eslint & now tobe edited with emacs.
  * Delete the `.git` directory to get rid of previous history.
  * Reinitialize git.
  ```
- git clone https://github.com/gomain/npm-emacs-scaffolding.git && rm -rf .git && git init
+ git clone https://github.com/gomain/npm-emacs-scaffolding.git your-new-project-name
+ cd your-new-project-name
+ rm -rf .git && git init
  ```
  or use the **Use this template** button then clone your new repo.
  * run `npm install`
