@@ -17,6 +17,7 @@ Settup an npm project with babel, eslint & now tobe edited with emacs.
  or use the **Use this template** button then clone your new repo.
  * run `npm install`
 ## EMACS
+Setting up EMACS. These steps needs only be done once.
 ### Use js-mode, not js2-mode
 Because of js2-mode parsing issue when encounter babel syntax, use js-mode instead.
 ### Linting with flycheck
